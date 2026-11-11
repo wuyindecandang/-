@@ -1,0 +1,90 @@
+{
+  "src": "E:\\新生实践课\\My Web\\web\\style.html",
+  "url": "file:///E:/%E6%96%B0%E7%94%9F%E5%AE%9E%E8%B7%B5%E8%AF%BE/My%20Web/web/style.html",
+  "outdir": "E:\\新生实践课\\My Web\\web\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "desktop": {
+      "screenshot": "E:\\新生实践课\\My Web\\web\\_shots\\style_desktop.jpg",
+      "screenshotBytes": 355675,
+      "truncated": false,
+      "structure": {
+        "title": "主题与风格 · 村上春树",
+        "firstH1": "井、猫、影子与一台唱机",
+        "viewport": {
+          "w": 1424,
+          "h": 749
+        },
+        "fullpage": {
+          "w": 1424,
+          "h": 5628
+        },
+        "counts": {
+          "section": 4,
+          "h1": 1,
+          "h2": 3,
+          "img": 7,
+          "canvas": 0,
+          "svg": 0,
+          "links": 19,
+          "buttons": 3
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "elapsedSec": 3.5,
+  "schemaVersion": 2,
+  "status": "pass",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "E:\\新生实践课\\My Web\\web\\style.html",
+    "resolvedPath": "E:\\新生实践课\\My Web\\web\\style.html",
+    "baseUrl": "file:///E:/%E6%96%B0%E7%94%9F%E5%AE%9E%E8%B7%B5%E8%AF%BE/My%20Web/web/style.html",
+    "protocol": "file",
+    "cwd": "C:\\Users\\Administrator\\DoubaoWork\\chats\\2026-11-11\\new-chat",
+    "mediaMode": {
+      "reducedMotion": true
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "desktop",
+        "path": "E:\\新生实践课\\My Web\\web\\_shots\\style_desktop.jpg",
+        "size": 355675,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "findings": [],
+  "prioritizedActions": [],
+  "reportPath": "E:\\新生实践课\\My Web\\web\\_shots\\report.json"
+}
